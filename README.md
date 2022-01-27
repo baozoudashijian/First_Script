@@ -73,3 +73,4 @@ windows要配置一些内容，我没有实现，linux待观察
     ```
         wget -p -H -e robots=off https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js
     ```
+    type code code命令行是由安装的vscode软件提供

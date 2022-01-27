@@ -68,7 +68,7 @@ windows要配置一些内容，我没有实现，linux待观察
         curl -L https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js > jquery.js
     ```
     
-    type wget 既不来自于Git Bash 也不来源于系统, 来源于我自己安装，然后我可以把他放到$PATH中任意一个bin路径下面
+    type wget windows系统中既不来自于Git Bash 也不来源于系统, 来源于我自己安装，然后我可以把他放到$PATH中任意一个bin路径下面
      
     ```
         wget -p -H -e robots=off https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js

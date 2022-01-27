@@ -1,4 +1,4 @@
-## 开始使用
+## 关于脚本
 
 ### demo.sh
 
@@ -53,3 +53,15 @@ bash script运行在系统中, node script 运行在node环境中.
 ### shengbang
 
 windows要配置一些内容，我没有实现，linux待观察
+
+### 第三方脚本
+
+以前我不知道下面这些命令是做什么的.But now
+
++ wget
+
++ curl
+
+    type curl 我知道这个脚本呢来源于Git Bash /Bin不自带这个命令
+    
+    type wget 既不来自于Git Bash 也不来源于系统, 来源于我自己安装，然后我可以把他放到$PATH中任意一个bin路径下面

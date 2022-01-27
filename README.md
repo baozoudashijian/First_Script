@@ -24,6 +24,17 @@
    2. 新建demo.exe (linux是.sh), 写入Bash Script
    3. 任意目录运行demo
 
+### exit.sh
+
++ 创建成功 exit 0
++ 创建失败 exit 1
+
+```
+  demo xxx && "success"
+```
+
+注: 创建成功会打印 "success".
+
 ### nodeScript
 
 bash script运行在系统中, node script 运行在node环境中.

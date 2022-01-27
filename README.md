@@ -38,3 +38,7 @@ bash script运行在系统中, node script 运行在node环境中.
 + pwd和process.cwd()的路径分隔符不一样
     1. /c/Users/zhangrongjie
     2. C:\\Users\\zhangrongjie'
+    
+### shengbang
+
+windows要配置一些内容，我没有实现，linux待观察
